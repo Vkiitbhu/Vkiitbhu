@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Vkiitbhu
-- 👀 I’m interested in ... python,data analysis 
+- 👀 I’m interested in ...to get job in Tata Steel, TCS  
 - 🌱 I’m currently learning ...data science, machine learning,deep learning 
 - 💞️ I’m looking to collaborate on ...machine learning projects 
 - 📫 How to reach me ...using This link , (https://www.linkedin.com/in/vivek-kumar-375938237)
